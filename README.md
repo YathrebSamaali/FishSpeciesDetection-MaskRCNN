@@ -23,7 +23,7 @@ You can install the necessary dependencies using the following command:
    git clone https://github.com/YathrebSamaali/FishSpeciesDetection-MaskRCNN.git
    cd FishSpeciesDetection-MaskRCNN
 
-   ```bash
+  ```
    pip install -r requirements.txt
    ```
 
