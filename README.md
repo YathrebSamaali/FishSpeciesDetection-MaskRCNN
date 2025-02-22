@@ -34,3 +34,7 @@ pip install -r requirements.txt
 - Ability to process multiple images
 
 ## Results
+
+You can use the system to detect fish species from images. Below is an example of an image used for testing.
+
+![Fish Detection Image](images/maskrcnndetection.png)
