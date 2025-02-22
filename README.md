@@ -1,10 +1,10 @@
 # Fish Species Detection with Mask R-CNN
 
-## Introduction
+## 🐟 Introduction
 
 This repository contains a project for fish species detection using **Mask R-CNN**, a powerful object detection algorithm. The model is trained to detect and segment different fish species in images or videos.
 
-## Requirements
+## 🛠️ Requirements
 
 To run this project, you need the following libraries and tools:
 
@@ -27,13 +27,13 @@ You can install the necessary dependencies using the following command:
 pip install -r requirements.txt
 ```
 
-### Features:
+### 🚀 Features:
 - Fish species detection using Mask R-CNN
 - Instance segmentation (detecting and segmenting multiple objects)
 - Results visualization (bounding boxes, segmentation masks)
 - Ability to process multiple images
 
-## Results
+## 🖼️ Results
 
 You can use the system to detect fish species from images. Below is an example of an image used for testing.
 
