@@ -22,10 +22,8 @@ You can install the necessary dependencies using the following command:
    ```bash
    git clone https://github.com/YathrebSamaali/FishSpeciesDetection-MaskRCNN.git
    cd FishSpeciesDetection-MaskRCNN
-
-  ```
    pip install -r requirements.txt
-   ```
+  
 
 ### 🚀 Features:
 - Fish species detection using Mask R-CNN
