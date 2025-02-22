@@ -37,4 +37,4 @@ pip install -r requirements.txt
 
 You can use the system to detect fish species from images. Below is an example of an image used for testing.
 
-![Fish Detection Image](images/maskrcnndetection.png)
+![Fish Detection Image](images/mrcnndetection.png)
